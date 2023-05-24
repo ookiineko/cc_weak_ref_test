@@ -1,0 +1,10 @@
+# Binaries
+**/*.o
+**/test_pass*
+**/test_fail*
+
+# macOS
+**/.**DS_Store
+
+# Cygwin
+**/*.exe.stackdump
